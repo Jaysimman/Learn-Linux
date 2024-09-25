@@ -122,7 +122,7 @@
 
 ##    b. cmdname --help
 
-![alt text](file:///mnt/sda2/V%20SPHERE/linux/Day1/Screenshot%20from%202024-09-25%2015-39-03.png)
+![alt text](Screenshot%20from%202024-09-25%2015-39-03.png)
 
 ##    c. man cmdname
 
